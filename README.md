@@ -53,8 +53,8 @@ See [`Customer_API_Documentation.md`](Customer_API_Documentation.md) for detaile
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd next-mongo
+git clone https://github.com/NotingCap/fin-customer.git
+cd fin-customer
 ```
 
 2. Install dependencies:
